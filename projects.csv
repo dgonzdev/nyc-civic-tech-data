@@ -1,2 +1,3 @@
 title,description,organization,project_site,source_code
+"all text in nyc","""all text in nyc"" is a search engine that finds text in New York City's Google Street View images. Search for any word or phrase to see where it appears across the city—in shop signs, graffiti, advertisements, and protest signs.","yufeng-zhao","https://alltext.nyc/","https://github.com/yz3440/panoocr"
 "FloodNet NYC - Sensor","This repository houses information regarding the build, deployment, and maintenance of the FloodnNet project's flood sensor.","floodnet-nyc","https://www.floodnet.nyc/","https://github.com/floodnet-nyc/flood-sensor"
